@@ -1,0 +1,4 @@
+COPY START 0000
+    LDA #30
+    LDA ONE
+ONE WORD 1 
